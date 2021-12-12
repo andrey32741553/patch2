@@ -1,0 +1,8 @@
+{"name": "pensionregistry", "namespace": "pensionregistry.avro", "type": "record", "fields":
+   [{"name": "vd", "type": ["null", "string"]}, {"name": "po", "type": ["null", "int"]},
+    {"name": "sm", "type": ["null", "double"]}, {"name": "pm", "type": ["null", "int"]},
+    {"name": "d", "type": ["null", "string"]}, {"name": "hash", "type": ["null", "string"]},
+    {"name": "hash_dc", "type": ["null", "string"]}, {"name": "table_name", "type": ["null", "string"]},
+    {"name": "hash_table", "type": ["null", "string"]}, {"name": "snapshot", "type": ["null", "int"]},
+    {"name": "creation_date", "type": ["null", "string"]}, {"name": "deleted_flag", "type": ["null", "boolean"]},
+    {"name": "system_id", "type": ["null", "string"]}, {"name": "date", "type": ["null", "string"]}]}
