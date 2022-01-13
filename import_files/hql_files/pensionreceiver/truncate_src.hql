@@ -1,1 +1,0 @@
-TRUNCATE TABLE ${ods_schema_name}.pensionreceiver_dsrc;
